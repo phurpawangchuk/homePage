@@ -4,7 +4,7 @@
     "occupation": "Software Developer",
     "description": "I enjoy coding and learning new technology.",
     "image": "profilepicture.jpeg",
-    "bio": "Hi there! I am Phurpa Wangchuk! I have been working for last 15 years in IT field. I was worked for different agencies and learnt a lot in system developemnt.I like building usable, useful, well-constructed websites and applications. Also I am interested in continuation of learning and cooperation with excellent people.",
+    "bio": "Hi there! I am Phurpa Wangchuk! I have been working for last 15 years in IT field. I worked for different agencies starting as a role of System Administrator to Chief Project Officer. Designed and developed many useful system.I like building usable, useful, well-constructed websites and applications. Also I enjoy working in a team and meeting different people.",
     "website": "https://github.com/DAJAKMPM",
     "resumedownload": "https://www.linkedin.com/in/dajakmpm/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACiKQCkB71uD3BE6uIRefHaRr5fk5g3KtOY,1610081104188)/",
     "contactmessage": "Hi...Get in touch with me and let's create an awesome project together!",
@@ -49,27 +49,37 @@
     "email": "phurpawangchuk@hotmail.com",
     "phone": "+641-233-0799",
     "address": {
-      "street": "Waling-Waling Street",
-      "city": "Cebu City",
-      "state": "Cebu",
-      "zip": "6000"
+      "street": "100 4th Street",
+      "city": "Fairfield",
+      "state": "Iowa",
+      "zip": "52557"
     }
   },
   "resume": {
-    "skillmessage": "My Programming Language Proficiency",
+    "skillmessage": "Programming Language Proficiency",
     "education": [
       {
-        "school": "Cebu Institute of Technology University",
-        "degree": "Bachelor's Degree, Information Technology",
-        "graduated": "March 2018"
+        "school": "Maharishi International University, Fairfield, Iowa, USA",
+        "degree": "Master in Computer Science",
+        "graduated": "Feb 2024 - Present"
+      },
+      {
+        "school": "QueenMastersland University of Technology, Brisbane, Australia",
+        "degree": "Master of Information Technology (Advanced)",
+        "graduated": "June 2012 - July 2014"
+      },
+      {
+        "school": "University of New Delhi, New Delhi, India",
+        "degree": "Bachelor in Information Technology (4 years)",
+        "graduated": "June 2000 - July 2004"
       }
     ],
     "work": [
       {
-        "company": "Fujitsu",
-        "title": "Application Systems Engineer",
-        "years": "April 2018 - Jul 2021",
-        "description": "Designs react based systems or applications based on Clients requirements"
+        "company": "National Land Commission, Thimphu, Bhutan",
+        "title": "Chief Information Technology Officer",
+        "years": "Apr 2017 - Feb 2024",
+        "description": "Design and Developed systems for the organization"
       },
       {
         "company": "Accenture",
@@ -86,11 +96,11 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "React",
         "level": "60%"
       },
       {
-        "name": "ExpressJs",
+        "name": "Express",
         "level": "55%"
       },
       {
@@ -98,20 +108,28 @@
         "level": "50%"
       },
       {
-        "name": "React Native",
-        "level": "50%"
+        "name": "Php",
+        "level": "60%"
       },
       {
         "name": "Git",
-        "level": "80%"
+        "level": "60%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "50%"
       },
       {
         "name": "JavaScript",
         "level": "60%"
       },
       {
+        "name": "Angular",
+        "level": "60%"
+      },
+      {
         "name": "Web Development",
-        "level": "50%"
+        "level": "60%"
       }
     ]
   },
