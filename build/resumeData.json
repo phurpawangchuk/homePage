@@ -2,19 +2,19 @@
   "main": {
     "name": "Phurpa Wangchuk",
     "occupation": "Software Developer",
-    "description": "I eat, sleep and breathe React",
+    "description": "I enjoy coding and learning new technology.",
     "image": "profilepicture.jpeg",
-    "bio": "Hi there! I am Phurpa Wangchuk! I am an experienced frontend developer interested in building usable, useful, well-constructed websites and applications. Also I am interested in continuation of learning and cooperation with excellent people.",
+    "bio": "Hi there! I am Phurpa Wangchuk! I have been working for last 15 years in IT field. I was worked for different agencies and learnt a lot in system developemnt.I like building usable, useful, well-constructed websites and applications. Also I am interested in continuation of learning and cooperation with excellent people.",
     "website": "https://github.com/DAJAKMPM",
     "resumedownload": "https://www.linkedin.com/in/dajakmpm/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACiKQCkB71uD3BE6uIRefHaRr5fk5g3KtOY,1610081104188)/",
     "contactmessage": "Hi...Get in touch with me and let's create an awesome project together!",
     "email": "phurpawangchuk@hotmail.com",
     "phone": "+641-233-0799",
     "address": {
-      "street": "Waling-Waling Street",
-      "city": "Cebu City",
-      "state": "Cebu",
-      "zip": "6000"
+      "street": "100 4th Street",
+      "city": "Fairfield",
+      "state": "Iowa",
+      "zip": "52557"
     },
     "social": [
       {
