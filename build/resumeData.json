@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name": "Phurpa Wangchuk",
+    "occupation": "Software Developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "profilepicture.jpeg",
+    "bio": "Hi there! I am Dann! I am an experienced frontend developer interested in building usable, useful, well-constructed websites and applications. Also I am interested in continuation of learning and cooperation with excellent people.",
+    "website": "https://github.com/DAJAKMPM",
+    "resumedownload": "https://www.linkedin.com/in/dajakmpm/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACiKQCkB71uD3BE6uIRefHaRr5fk5g3KtOY,1610081104188)/",
+    "contactmessage": "Hi...Get in touch with me and let's create an awesome project together!",
+    "email": "phurpawangchuk@hotmail.com",
+    "phone": "+641-233-0799",
+    "address": {
+      "street": "Waling-Waling Street",
+      "city": "Cebu City",
+      "state": "Cebu",
+      "zip": "6000"
+    },
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCejzRZ1WDAIYsQInUKvpG0Q",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/dannanthony.astillero/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dajakmpm/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/dajakmpm/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/DAJAKMPM",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "contact": {
+    "contactmessage": "Hi...Get in touch with me and let's create an awesome project together!",
+    "email": "phurpawangchuk@hotmail.com",
+    "phone": "+641-233-0799",
+    "address": {
+      "street": "Waling-Waling Street",
+      "city": "Cebu City",
+      "state": "Cebu",
+      "zip": "6000"
+    }
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Cebu Institute of Technology University",
+        "degree": "Bachelor's Degree, Information Technology",
+        "graduated": "March 2018"
+      }
+    ],
+    "work": [
+      {
+        "company": "Fujitsu",
+        "title": "Application Systems Engineer",
+        "years": "April 2018 - Jul 2021",
+        "description": "Designs react based systems or applications based on Clients requirements"
+      },
+      {
+        "company": "Accenture",
+        "title": "Application Development Senior Analyst",
+        "years": "Jul 2021 - May 2022",
+        "description": "Designs small to medium size solutions or partial solutions within an established architecture using react"
+      },
+      {
+        "company": "Codev",
+        "title": "React JS Developer",
+        "years": "May 2022 - Present",
+        "description": "Develop large scale applications using React."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "ExpressJs",
+        "level": "55%"
+      },
+      {
+        "name": "Typescript",
+        "level": "50%"
+      },
+      {
+        "name": "React Native",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Web Development",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Crwn Clothing (React JS)",
+        "category": "Clone",
+        "image": "CrwnClothing.png",
+        "url": "https://github.com/DAJAKMPM/crwn-clothing"
+      },
+      {
+        "title": "Fb Clone (React JS)",
+        "category": "Clone",
+        "image": "fb-clone.png",
+        "url": "https://github.com/DAJAKMPM/fb-clone"
+      },
+      {
+        "title": "Medium Clone (React JS)",
+        "category": "Clone",
+        "image": "medium.png",
+        "url": "https://github.com/DAJAKMPM/medium-clone"
+      },
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "Clone",
+        "image": "amazon.png",
+        "url": "https://github.com/DAJAKMPM/amazon-clone"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Very proficient in any JavaScript Technology. Exhibits a contagious positive attitude towards learning new technologies on becoming a better full-stack developer.",
+        "user": "Alexandros Pappas"
+      },
+      {
+        "text": "It is an honor working with him through his proactiveness, ability to get things done, technically capability is very good, excellent work attitude and ethics. He is one of a kind.",
+        "user": "Jose II De Vera"
+      }
+    ]
+  }
+}
