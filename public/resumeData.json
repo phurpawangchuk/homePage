@@ -4,7 +4,7 @@
     "occupation": "Software Developer",
     "description": "I enjoy coding and learning new technology.",
     "image": "profilepicture.jpeg",
-    "bio": "Hi there! I am Phurpa Wangchuk! I have been working for last 15 years in IT field. I worked for different agencies starting as a role of System Administrator to Chief Project Officer. Designed and developed many useful system.I like building usable, useful, well-constructed websites and applications. Also I enjoy working in a team and meeting different people.",
+    "bio": "I am Phurpa Wangchuk! I have been working for last 15 years in IT field. I worked for different agencies starting as a role of System Administrator to Chief Project Officer. Designed and developed many useful system.I like building usable, useful, well-constructed websites and applications. Also I enjoy working in a team and meeting different people.",
     "website": "https://github.com/DAJAKMPM",
     "resumedownload": "https://www.linkedin.com/in/dajakmpm/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACiKQCkB71uD3BE6uIRefHaRr5fk5g3KtOY,1610081104188)/",
     "contactmessage": "Hi...Get in touch with me and let's create an awesome project together!",
@@ -45,7 +45,7 @@
     ]
   },
   "contact": {
-    "contactmessage": "Hi...Get in touch with me and let's create an awesome project together!",
+    "contactmessage": "Get in touch with me and let's create an awesome project together!",
     "email": "phurpawangchuk@hotmail.com",
     "phone": "+641-233-0799",
     "address": {
@@ -57,6 +57,7 @@
   },
   "resume": {
     "skillmessage": "Programming Language Proficiency",
+    "dbskillmessage": "Database Skills Level",
     "education": [
       {
         "school": "Maharishi International University, Fairfield, Iowa, USA",
@@ -64,7 +65,7 @@
         "graduated": "Feb 2024 - Present"
       },
       {
-        "school": "QueenMastersland University of Technology, Brisbane, Australia",
+        "school": "Queensland University of Technology, Brisbane, Australia",
         "degree": "Master of Information Technology (Advanced)",
         "graduated": "June 2012 - July 2014"
       },
@@ -82,34 +83,40 @@
         "description": "Design and Developed systems for the organization"
       },
       {
-        "company": "Accenture",
-        "title": "Application Development Senior Analyst",
-        "years": "Jul 2021 - May 2022",
-        "description": "Designs small to medium size solutions or partial solutions within an established architecture using react"
+        "company": "Thimphu Techpark Limited, Druk Holding and Investments, Bhutan",
+        "title": "Chief Project Officer",
+        "years": "Jul 2019 - Dec 2021",
+        "description": "Design and Developed of Bhutan Integrated Taxation System"
       },
       {
-        "company": "Codev",
-        "title": "React JS Developer",
-        "years": "May 2022 - Present",
-        "description": "Develop large scale applications using React."
+        "company": "Cabinet Secretariat, Office of the Prime Minister, Thimphu, Bhutan",
+        "title": "Dy. Chief Information Technology Officer",
+        "years": "Jul 2015 - Dec 2017",
+        "description": "Design and Developed systems for the organization"
+      },
+      {
+        "company": "Ministry of Home and Affairs, Thimphu, Bhutan",
+        "title": "System Administrator and Developer",
+        "years": "Jan 2005 - June 2015",
+        "description": "Develop large scale applications for the Organization and Departments."
       }
     ],
     "skills": [
       {
         "name": "React",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "Express",
-        "level": "55%"
+        "level": "65%"
       },
       {
         "name": "Typescript",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "Php",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "Git",
@@ -117,7 +124,7 @@
       },
       {
         "name": "NodeJs",
-        "level": "50%"
+        "level": "60%"
       },
       {
         "name": "JavaScript",
@@ -131,31 +138,63 @@
         "name": "Web Development",
         "level": "60%"
       }
+    ],
+    "databases": [
+      {
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "MS SQL",
+        "level": "70%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "60%"
+      },
+      {
+        "name": "Firebase",
+        "level": "60%"
+      },
+      {
+        "name": "SqlLite",
+        "level": "60%"
+      }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Crwn Clothing (React JS)",
-        "category": "Clone",
+        "title": "Online Land Transaction System (PHP)",
+        "category": "Online System",
         "image": "CrwnClothing.png",
-        "url": "https://github.com/DAJAKMPM/crwn-clothing"
+        "url": "https://esakor.nlcs.gov.bt"
       },
       {
-        "title": "Fb Clone (React JS)",
-        "category": "Clone",
+        "title": "Land Mortgage System (PHP)",
+        "category": "Online System",
         "image": "fb-clone.png",
-        "url": "https://github.com/DAJAKMPM/fb-clone"
+        "url": "https://lms.nlcs.gov.bt"
       },
       {
-        "title": "Medium Clone (React JS)",
-        "category": "Clone",
+        "title": "Onlone Smart Card Registration (Angular + Spring Boot)",
+        "category": "Online System",
         "image": "medium.png",
-        "url": "https://github.com/DAJAKMPM/medium-clone"
+        "url": "https://smartcardregistration.bt/"
       },
       {
-        "title": "Amazon Clone (React JS)",
-        "category": "Clone",
+        "title": "Online Immigration and Monitoring System (PHP)",
+        "category": "Online System",
+        "image": "amazon.png",
+        "url": "https://github.com/DAJAKMPM/amazon-clone"
+      },
+      {
+        "title": "Online Payment Aggregator (Java MVC)",
+        "category": "Online System",
         "image": "amazon.png",
         "url": "https://github.com/DAJAKMPM/amazon-clone"
       }

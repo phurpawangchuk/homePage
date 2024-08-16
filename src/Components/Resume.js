@@ -3,6 +3,7 @@ import React from "react";
 const Resume = ({ data }) => {
   if (data) {
     var skillmessage = data.skillmessage;
+    var dbskillmessage = data.dbskillmessage;
     var education = data.education.map(function (education) {
       return (
         <div key={education.school}>
@@ -28,6 +29,15 @@ const Resume = ({ data }) => {
       );
     });
     var skills = data.skills.map(function (skills) {
+      var className = "bar-expand " + skills.name.toLowerCase();
+      return (
+        <li key={skills.name}>
+          <span style={{ width: skills.level }} className={className}></span>
+          <em>{skills.name}</em>
+        </li>
+      );
+    });
+    var dbskills = data.databases.map(function (skills) {
       var className = "bar-expand " + skills.name.toLowerCase();
       return (
         <li key={skills.name}>
@@ -76,6 +86,22 @@ const Resume = ({ data }) => {
 
           <div className="bars">
             <ul className="skills">{skills}</ul>
+          </div>
+        </div>
+      </div>
+
+      <div className="row skill">
+        <div className="three columns header-col">
+          <h1>
+            <span>Databases</span>
+          </h1>
+        </div>
+
+        <div className="nine columns main-col">
+          <p>{dbskillmessage}</p>
+
+          <div className="bars">
+            <ul className="skills">{dbskills}</ul>
           </div>
         </div>
       </div>

@@ -62,19 +62,6 @@ const Header = ({ data }) => {
         </ul>
       </nav>
 
-      <div className="row banner">
-        <div className="banner-text">
-          <h1 className="responsive-headline">
-            <TypeWriter typing={0.5}>{name ? `I'm ${name}.` : null}</TypeWriter>
-          </h1>
-          <h3>
-            Based in {city}. <span>{occupation}</span>. {description}.
-          </h3>
-          <hr />
-          <ul className="social">{networks}</ul>
-        </div>
-      </div>
-
       <p className="scrolldown">
         <a className="smoothscroll" href="#about">
           <i className="icon-down-circle"></i>
