@@ -4,9 +4,9 @@
     "occupation": "Software Developer",
     "description": "I enjoy coding and learning new technology.",
     "image": "profilepicture.jpeg",
-    "bio": "I am Phurpa Wangchuk! I have been working for last 15 years in IT field. I worked for different agencies starting as a role of System Administrator to Chief Project Officer. Designed and developed many useful system.I like building usable, useful, well-constructed websites and applications. Also I enjoy working in a team and meeting different people.",
-    "website": "https://github.com/DAJAKMPM",
-    "resumedownload": "https://www.linkedin.com/in/dajakmpm/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACiKQCkB71uD3BE6uIRefHaRr5fk5g3KtOY,1610081104188)/",
+    "bio": "I am a software engineer with 5 years of experience in web development using PHP. I utilized the Laravel framework for faster, secure and scalable development , Livewire for server side rendering (SSR), Jetstream for user Authentication and Management. Laravel Passport for OAuth2 Authentication, Guzzle for Http Client API integration. Applications were developed and hosted in AWS utilizing CI/CD pipeline integration.<br><br>I worked with many clients, involving local as well as international, and have experience in dealing with diverse clients from different cultures.<br><br>I am passionate about learning new technologies, meeting with people from diverse cultures, team collaboration and contributing to business growth.I look forward to bringing these skills to your company and helping to expand your business.<br><br>In the past, I used CMS like Wordpress and Joomla to customize the website for many clients and hosted in the cloud.",
+    "website": "https://phurpawangchuk.github.io/",
+    "resumedownload": "https://www.linkedin.com/in/phurpa-wangchuk-25873787/",
     "contactmessage": "Hi...Get in touch with me and let's create an awesome project together!",
     "email": "phurpawangchuk@hotmail.com",
     "phone": "+641-233-0799",
@@ -65,46 +65,47 @@
         "graduated": "Feb 2024 - Present"
       },
       {
-        "school": "Queensland University of Technology, Brisbane, Australia",
-        "degree": "Master of Information Technology (Advanced)",
-        "graduated": "June 2012 - July 2014"
-      },
-      {
         "school": "University of New Delhi, New Delhi, India",
         "degree": "Bachelor in Information Technology (4 years)",
-        "graduated": "June 2000 - July 2004"
+        "graduated": "2000 - 2004"
       }
     ],
     "work": [
       {
-        "company": "National Land Commission, Thimphu, Bhutan",
-        "title": "Chief Information Technology Officer",
-        "years": "Apr 2017 - Feb 2024",
+        "company": "National Land Commission",
+        "title": "Software Engineer",
+        "years": "2022 - 2024",
         "description": "Design and Developed systems for the organization"
       },
       {
-        "company": "Thimphu Techpark Limited, Druk Holding and Investments, Bhutan",
-        "title": "Chief Project Officer",
-        "years": "Jul 2019 - Dec 2021",
-        "description": "Design and Developed of Bhutan Integrated Taxation System"
+        "company": "Thimphu Techpark Limited",
+        "title": "Software Engineer",
+        "years": "2020 - 2021",
+        "description": "Design and Developed of Taxation System"
       },
       {
-        "company": "Cabinet Secretariat, Office of the Prime Minister, Thimphu, Bhutan",
-        "title": "Dy. Chief Information Technology Officer",
-        "years": "Jul 2015 - Dec 2017",
+        "company": "National Land Commission",
+        "title": "Software Engineer",
+        "years": "2017 - 2019",
         "description": "Design and Developed systems for the organization"
       },
       {
-        "company": "Ministry of Home and Affairs, Thimphu, Bhutan",
+        "company": "Cabinet Secretariat, Office of the Prime Minister",
+        "title": "Software Engineer",
+        "years": "2014 - Dec 2016",
+        "description": "Design and Developed systems for the organization"
+      },
+      {
+        "company": "Ministry of Home and Affairs",
         "title": "System Administrator and Developer",
-        "years": "Jan 2005 - June 2015",
+        "years": "2005 - 2013",
         "description": "Develop large scale applications for the Organization and Departments."
       }
     ],
     "skills": [
       {
         "name": "React",
-        "level": "70%"
+        "level": "50%"
       },
       {
         "name": "Express",
@@ -116,7 +117,7 @@
       },
       {
         "name": "Php",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "Git",
@@ -132,11 +133,27 @@
       },
       {
         "name": "Angular",
-        "level": "60%"
+        "level": "70%"
       },
       {
-        "name": "Web Development",
-        "level": "60%"
+        "name": "Laravel",
+        "level": "100%"
+      },
+      {
+        "name": "HTML",
+        "level": "100%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "Wordpress",
+        "level": "100%"
+      },
+      {
+        "name": "Joomla",
+        "level": "100%"
       }
     ],
     "databases": [
@@ -171,32 +188,44 @@
       {
         "title": "Online Land Transaction System (PHP)",
         "category": "Online System",
-        "image": "CrwnClothing.png",
+        "image": "esakor.png",
         "url": "https://esakor.nlcs.gov.bt"
       },
       {
         "title": "Land Mortgage System (PHP)",
         "category": "Online System",
-        "image": "fb-clone.png",
+        "image": "lms.png",
         "url": "https://lms.nlcs.gov.bt"
       },
       {
         "title": "Onlone Smart Card Registration (Angular + Spring Boot)",
         "category": "Online System",
-        "image": "medium.png",
+        "image": "scard.png",
         "url": "https://smartcardregistration.bt/"
       },
       {
         "title": "Online Immigration and Monitoring System (PHP)",
         "category": "Online System",
-        "image": "amazon.png",
-        "url": "https://github.com/DAJAKMPM/amazon-clone"
+        "image": "doi.png",
+        "url": "https://immi.gov.bt/home/"
       },
       {
-        "title": "Online Payment Aggregator (Java MVC)",
-        "category": "Online System",
-        "image": "amazon.png",
-        "url": "https://github.com/DAJAKMPM/amazon-clone"
+        "title": "G2C Services",
+        "category": "H2C System",
+        "image": "payment.png",
+        "url": "https://www.citizenservices.gov.bt/G2CPaymentAggregator/redirect.html?param=makepayment"
+      },
+      {
+        "title": "Bhutan Virtual Travel",
+        "category": "Travel AGency",
+        "image": "vt.png",
+        "url": "https://www.bhutanvirtualtravel.com/"
+      },
+      {
+        "title": "Bhutan Textile",
+        "category": "Textile Showroom",
+        "image": "bt.png",
+        "url": "https://bhutan-textiles.com/"
       }
     ]
   },
