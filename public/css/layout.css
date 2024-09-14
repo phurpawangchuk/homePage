@@ -31,15 +31,15 @@ body {
 /* ------------------------------------------------------------------ */
 
 header {
-   position: relative;
-   /* height: 800px;
+   /*position: relative;
+    height: 800px;
    min-height: 500px;
    width: 100%;
    background: #161415 url(../images/header-background.jpg) no-repeat top center;
    background-size: cover !important;
-   -webkit-background-size: cover !important; */
-   text-align: center;
+   -webkit-background-size: cover !important; 
    overflow: hidden;
+   */
 }
 
 /* vertically center banner section */
@@ -51,12 +51,12 @@ header:before {
 }
 
 header .banner {
-   display: inline-block;
+   /* display: inline-block;
    vertical-align: middle;
    margin: 0 auto;
    width: 85%;
    padding-bottom: 30px;
-   text-align: center;
+   text-align: center; */
 }
 
 header .banner-text {

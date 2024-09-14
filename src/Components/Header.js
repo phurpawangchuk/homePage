@@ -47,7 +47,6 @@ const Header = () => {
       </nav>
       <p className="scrolldown">
         <a className="smoothscroll" href="#about">
-          <i className="icon-down-circle"></i>
         </a>
       </p>
     </header>
