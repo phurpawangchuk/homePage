@@ -1,23 +1,6 @@
 import React from "react";
-import TypeWriter from "react-typewriter";
 
-const Header = ({ data }) => {
-  if (data) {
-    var name = data.name;
-    var occupation = data.occupation;
-    var description = data.description;
-    var city = data.address.city;
-    var networks = data.social.map(function (network) {
-      return (
-        <li key={network.name}>
-          <a href={network.url}>
-            <i className={network.className}></i>
-          </a>
-        </li>
-      );
-    });
-  }
-
+const Header = () => {
   return (
     <header id="home">
       <nav id="nav-wrap">
@@ -56,18 +39,12 @@ const Header = ({ data }) => {
             </a>
           </li>
           <li>
-            <a className="smoothscroll" href="#testimonials">
-              Testimonials
-            </a>
-          </li>
-          <li>
-            <a className="smoothscroll" href="#contact">
+            <a className="smoothscroll" href="#contactme">
               Contact
             </a>
           </li>
         </ul>
       </nav>
-
       <p className="scrolldown">
         <a className="smoothscroll" href="#about">
           <i className="icon-down-circle"></i>

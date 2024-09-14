@@ -4,12 +4,12 @@
     "occupation": "Software Developer",
     "description": "I enjoy coding and learning new technology.",
     "image": "profilepicture.jpeg",
-    "bio": "I am a software engineer with 5 years of experience in web development using PHP. I utilized the Laravel framework for faster, secure and scalable development , Livewire for server side rendering (SSR), Jetstream for user Authentication and Management. Laravel Passport for OAuth2 Authentication, Guzzle for Http Client API integration. Applications were developed and hosted in AWS utilizing CI/CD pipeline integration.<br><br>I worked with many clients, involving local as well as international, and have experience in dealing with diverse clients from different cultures.<br><br>I am passionate about learning new technologies, meeting with people from diverse cultures, team collaboration and contributing to business growth.I look forward to bringing these skills to your company and helping to expand your business.<br><br>In the past, I used CMS like Wordpress and Joomla to customize the website for many clients and hosted in the cloud.",
+    "bio": "I am a software engineer with 5 years of experience in web development using PHP. I utilized the Laravel framework for faster, secure and scalable development , Livewire, Jetstream for user Authentication and Management. Laravel Passport for OAuth2 Authentication, Guzzle for Http Client API integration. Applications were developed and hosted in AWS utilizing CI/CD pipeline integration.<br><br>I worked with many clients, involving local as well as international, and have experience in dealing with diverse clients from different cultures.<br><br>I am passionate about learning new technologies, meeting with people from diverse cultures, team collaboration and contributing to business growth.I look forward to bringing these skills to your company and helping to expand your business.<br><br>In the past, I used CMS like Wordpress and Joomla to customize the website for many clients and hosted in the cloud.",
     "website": "https://phurpawangchuk.github.io/",
     "resumedownload": "https://www.linkedin.com/in/phurpa-wangchuk-25873787/",
     "contactmessage": "Hi...Get in touch with me and let's create an awesome project together!",
-    "email": "phurpawangchuk@hotmail.com",
-    "phone": "+641-233-0799",
+    "email": "phurpawangchuk78@gamil.com",
+    "phone": "(641) 233-0799",
     "address": {
       "street": "100 4th Street",
       "city": "Fairfield",
@@ -18,36 +18,26 @@
     },
     "social": [
       {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCejzRZ1WDAIYsQInUKvpG0Q",
-        "className": "fa fa-youtube"
-      },
-      {
         "name": "facebook",
-        "url": "https://www.facebook.com/dannanthony.astillero/",
+        "url": "https://www.facebook.com/phurpa.wangchuk.7",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/dajakmpm/",
+        "url": "https://www.linkedin.com/in/phurpa-wangchuk-25873787/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/dajakmpm/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
-        "url": "https://github.com/DAJAKMPM",
+        "url": "https://github.com/phurpawangchuk",
         "className": "fa fa-github"
       }
     ]
   },
   "contact": {
     "contactmessage": "Get in touch with me and let's create an awesome project together!",
-    "email": "phurpawangchuk@hotmail.com",
-    "phone": "+641-233-0799",
+    "email": "phurpawangchuk78@gmail.com",
+    "phone": "(641) 233-0799",
     "address": {
       "street": "100 4th Street",
       "city": "Fairfield",
@@ -92,7 +82,7 @@
       {
         "company": "Cabinet Secretariat, Office of the Prime Minister",
         "title": "Software Engineer",
-        "years": "2014 - Dec 2016",
+        "years": "2014 - 2016",
         "description": "Design and Developed systems for the organization"
       },
       {
@@ -104,36 +94,8 @@
     ],
     "skills": [
       {
-        "name": "React",
-        "level": "50%"
-      },
-      {
-        "name": "Express",
-        "level": "65%"
-      },
-      {
-        "name": "Typescript",
-        "level": "60%"
-      },
-      {
         "name": "Php",
-        "level": "80%"
-      },
-      {
-        "name": "Git",
-        "level": "60%"
-      },
-      {
-        "name": "NodeJs",
-        "level": "60%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "60%"
-      },
-      {
-        "name": "Angular",
-        "level": "70%"
+        "level": "100%"
       },
       {
         "name": "Laravel",
@@ -154,39 +116,67 @@
       {
         "name": "Joomla",
         "level": "100%"
+      },
+      {
+        "name": "React",
+        "level": "60%"
+      },
+      {
+        "name": "Express",
+        "level": "60%"
+      },
+      {
+        "name": "Typescript",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "NodeJs",
+        "level": "60%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Angular",
+        "level": "60%"
       }
     ],
     "databases": [
       {
         "name": "MySQL",
-        "level": "80%"
+        "level": "100%"
       },
       {
         "name": "MS SQL",
-        "level": "70%"
+        "level": "100%"
       },
       {
         "name": "MongoDB",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "PostgreSQL",
-        "level": "60%"
+        "level": "80%"
       },
       {
         "name": "Firebase",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "SqlLite",
-        "level": "60%"
+        "level": "70%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Online Land Transaction System (PHP)",
+        "title": "Land Administration System (PHP)",
         "category": "Online System",
         "image": "esakor.png",
         "url": "https://esakor.nlcs.gov.bt"
@@ -210,12 +200,6 @@
         "url": "https://immi.gov.bt/home/"
       },
       {
-        "title": "G2C Services",
-        "category": "H2C System",
-        "image": "payment.png",
-        "url": "https://www.citizenservices.gov.bt/G2CPaymentAggregator/redirect.html?param=makepayment"
-      },
-      {
         "title": "Bhutan Virtual Travel",
         "category": "Travel AGency",
         "image": "vt.png",
@@ -226,18 +210,6 @@
         "category": "Textile Showroom",
         "image": "bt.png",
         "url": "https://bhutan-textiles.com/"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Very proficient in any JavaScript Technology. Exhibits a contagious positive attitude towards learning new technologies on becoming a better full-stack developer.",
-        "user": "Alexandros Pappas"
-      },
-      {
-        "text": "It is an honor working with him through his proactiveness, ability to get things done, technically capability is very good, excellent work attitude and ethics. He is one of a kind.",
-        "user": "Jose II De Vera"
       }
     ]
   }
