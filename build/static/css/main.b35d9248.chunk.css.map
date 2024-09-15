@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,QACE,qBAAuB,CACvB,iBAAkB,CAClB,YACF,CAEA,UACE,oBACF","file":"main.b35d9248.chunk.css","sourcesContent":[".submit {\n  background-color: black;\n  border-radius: 5px;\n  padding: 20px;\n}\n\n.bg-white {\n  background-color: red;\n}"]}

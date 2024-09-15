@@ -49,76 +49,74 @@ const Resume = ({ data }) => {
   }
 
   return (
-    <div>
-      <section id="education">
+    <section id="education">
+      <div className="row"><br></br><br></br></div>
+      <div className="row">
+        <div className="three columns">
+          <h1>
+            <span>Education</span>
+          </h1>
+        </div>
+
+        <div className="nine columns main-col">
+          <div className="row item">
+            <div className="twelve columns">{education}</div>
+          </div>
+        </div>
+      </div>
+
+
+      <div className="row" id="experiences">
         <div className="row"><br></br><br></br></div>
-        <div className="row">
-          <div className="three columns">
-            <h1>
-              <span>Education</span>
-            </h1>
-          </div>
-
-          <div className="nine columns main-col">
-            <div className="row item">
-              <div className="twelve columns">{education}</div>
-            </div>
-          </div>
+        <div className="three columns">
+          <h1>
+            <span>Experiences</span>
+          </h1>
         </div>
 
-
-        <div className="row" id="experiences">
-          <div className="row"><br></br><br></br></div>
-          <div className="three columns">
-            <h1>
-              <span>Experiences</span>
-            </h1>
-          </div>
-
-          <div className="nine columns main-col">
-            <div className="row item">
-              <div className="twelve columns">{work}</div>
-            </div>
+        <div className="nine columns main-col">
+          <div className="row item">
+            <div className="twelve columns">{work}</div>
           </div>
         </div>
+      </div>
 
-        <div id="skill">
-          <div className="row"><br></br><br></br></div>
-
-          <div className="row">
-            <div className="three columns">
-              <h1>
-                <span>Skills</span>
-              </h1>
-            </div>
-
-            <div className="nine columns main-col">
-              <p>{skillmessage}</p>
-
-              <div className="bars">
-                <ul className="skills">{skills}</ul>
-              </div>
-            </div>
-          </div>
-        </div>
+      <div id="skill">
+        <div className="row"><br></br><br></br></div>
 
         <div className="row">
           <div className="three columns">
             <h1>
-              <span>Databases</span>
+              <span>Skills</span>
             </h1>
           </div>
 
           <div className="nine columns main-col">
-            <p>{dbskillmessage}</p>
+            <p>{skillmessage}</p>
 
             <div className="bars">
-              <ul className="skills">{dbskills}</ul>
+              <ul className="skills">{skills}</ul>
             </div>
           </div>
         </div>
-      </section >
-    </div >
+      </div>
+
+      <div className="row">
+        <div className="three columns">
+          <h1>
+            <span>Databases</span>
+          </h1>
+        </div>
+
+        <div className="nine columns main-col">
+          <p>{dbskillmessage}</p>
+
+          <div className="bars">
+            <ul className="skills">{dbskills}</ul>
+          </div>
+        </div>
+      </div>
+    </section >
   );
 };
 

@@ -1,6 +1,12 @@
-import React from "react";
+import React, { useState } from "react";
 
 const Header = () => {
+  const [activeSection, setActiveSection] = useState("#about"); // Default to "Home"
+
+  const handleSetActive = (section) => {
+    setActiveSection(section);
+  };
+
   return (
     <header id="home">
       <nav id="nav-wrap">
@@ -12,42 +18,59 @@ const Header = () => {
         </a>
 
         <ul id="nav" className="nav">
-          <li className="current">
-            <a className="smoothscroll" href="#home">
+          <li className={activeSection === "#about" ? "current" : ""}>
+            <a
+              className="smoothscroll"
+              href="#about"
+              onClick={() => handleSetActive("#about")}
+            >
               Home
             </a>
           </li>
-          <li>
-            <a className="smoothscroll" href="#about">
-              About
-            </a>
-          </li>
-          <li>
-            <a className="smoothscroll" href="#education">
+
+          <li className={activeSection === "#education" ? "current" : ""}>
+            <a
+              className="smoothscroll"
+              href="#education"
+              onClick={() => handleSetActive("#education")}
+            >
               Education
             </a>
           </li>
-          <li>
-            <a className="smoothscroll" href="#experiences">
+
+          <li className={activeSection === "#experiences" ? "current" : ""}>
+            <a
+              className="smoothscroll"
+              href="#experiences"
+              onClick={() => handleSetActive("#experiences")}
+            >
               Experiences
             </a>
           </li>
 
-          <li>
-            <a className="smoothscroll" href="#skill">
+          <li className={activeSection === "#skill" ? "current" : ""}>
+            <a
+              className="smoothscroll"
+              href="#skill"
+              onClick={() => handleSetActive("#skill")}
+            >
               Skills
             </a>
           </li>
-          <li>
-            <a className="smoothscroll" href="#contactme">
+
+          <li className={activeSection === "#contactme" ? "current" : ""}>
+            <a
+              className="smoothscroll"
+              href="#contactme"
+              onClick={() => handleSetActive("#contactme")}
+            >
               Contact
             </a>
           </li>
         </ul>
       </nav>
       <p className="scrolldown">
-        <a className="smoothscroll" href="#about">
-        </a>
+        <a className="smoothscroll" href="#about"></a>
       </p>
     </header>
   );
